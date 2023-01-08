@@ -5,7 +5,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run JMeter Tests
-        uses: vasanthshanmugam/apachedemo_01@v11.0
+        uses: vasanthshanmugam/apachedemo_01@v0.0
         with:
           test-plan-path: Summary Report.jmx
           args: ''
