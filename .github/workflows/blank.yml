@@ -1,24 +1,23 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-on:
-  
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  
-  workflow_dispatch:
-
-
+on: [push]
 jobs:
-  
-  build:
-    
+  Main:
     runs-on: ubuntu-latest
-
-    
     steps:
-      - name: run jmeter on github action
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+      - name: Run JMeter Tests
+        uses: QAInsights/PerfAction@v3.1
+        with:
+          test-plan-path: Summary Report.jmx
+          args: ''
+      - name: Upload Results
+        uses: actions/upload-artifact@v2
+        with:
+          name: jmeter-results
+          path: result.jtl
+      - name: Analyze Results with Latency Lingo
+        uses: latency-lingo/github-action@v0.0.1
+        with:
+          api-key: ${{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 }}
+          file: result.jtl
+          label: Checkout Flow Automated Test Plan
+          format: jmeter
