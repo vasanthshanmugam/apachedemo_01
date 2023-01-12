@@ -1,0 +1,22 @@
+2023-01-12 21:05:19,926 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-01-12 21:05:19,990 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-01-12 21:05:19,990 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: Version 5.5
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: java.version=19.0.1
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: os.name=Windows 11
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: os.arch=amd64
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: os.version=10.0
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: java.awt.headless=null
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-01-12 21:05:20,021 INFO o.a.j.JMeter: Available Processors =8
+2023-01-12 21:05:20,068 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-01-12 21:05:20,068 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-01-12 21:05:20,068 INFO o.a.j.JMeter: JMeterHome=C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5
+2023-01-12 21:05:20,068 INFO o.a.j.JMeter: user.dir  =C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2023-01-12 21:05:20,068 INFO o.a.j.JMeter: PWD       =C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5\bin
+2023-01-12 21:05:20,084 INFO o.a.j.JMeter: IP: 192.168.0.9 Name: DESKTOP-A8OIRUS FullName: DESKTOP-A8OIRUS.Home
+2023-01-12 21:05:20,115 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-01-12 21:05:20,618 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel

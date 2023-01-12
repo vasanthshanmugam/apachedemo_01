@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+<httpSample t="476" it="0" lt="473" ct="448" ts="1669504306777" s="true" lb="-1" rc="200" rm="OK" tn="" dt="text" de="UTF-8" by="1401" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Access-Control-Allow-Origin: https://www.blogger.com
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Playlog-Web
+Content-Type: text/plain; charset=UTF-8
+Date: Sat, 26 Nov 2022 23:11:46 GMT
+Server: Playlog
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: CONSENT=PENDING+134; expires=Mon, 25-Nov-2024 23:11:46 GMT; path=/; domain=.google.com; Secure
+P3P: CP=&quot;This is not a P3P policy! See g.co/p3phelp for more info.&quot;
+Set-Cookie: __Secure-3PSIDCC=AIKkIs3ipBuETZJf-3YoL94DDgvQHcHe-_dQKDaceRAAcHCR6GZnWm6iXif2kUNAcFMmKnUBjA; expires=Sun, 26-Nov-2023 23:11:46 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000,h3-Q050=&quot;:443&quot;; ma=2592000,h3-Q046=&quot;:443&quot;; ma=2592000,h3-Q043=&quot;:443&quot;; ma=2592000,quic=&quot;:443&quot;; ma=2592000; v=&quot;46,43&quot;
+Expires: Sat, 26 Nov 2022 23:11:46 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+Referer: https://www.blogger.com/
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Origin: https://www.blogger.com
+Accept: */*
+Authorization: SAPISIDHASH e817a77b0376e267d975a395f8721e816bc7a026
+sec-ch-ua: &quot;Microsoft Edge&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: &quot;Windows&quot;
+Host: play.google.com
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 545
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;-1&quot;,null,[[[&quot;ANDROID_BACKUP&quot;,0],[&quot;BATTERY_STATS&quot;,0],[&quot;SMART_SETUP&quot;,0],[&quot;TRON&quot;,0]],-3334737594024971225],[],{&quot;175237375&quot;:[10000]}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">__Secure-3PAPISID=nbkCUQQari7mzqq0/ArJcVkl1C5NbsFHsR; __Secure-3PSID=RAgKZ0dOs3VlWeze5U_IEo7yTuKLprNPjb-ey2k-iLmLjg5wV-IE4NsqYjgOEOjrlUJxSg.; NID=511=MkKT8edzFGQvSiJYvbbVKSQqqfGMrTUK6eNwOTtC5ZtRL1hDZaifpPoGg64U465lbNDh2TlaL4GwLBpV_Q35guouXrxsYruiQ8UCc6uWBshJCEfwoCNfFvO8FczOIjxl5_1_STaE03XmZwplGII5ClfjqRm9rLccU_wWSb1AqtYV7inXgzx0mjk5B8W3SgOFnxAsg5Y-DNlD7vr1o4RoPndIoCFXGyV2IMV5C6v4w_ZHtJDGmMT_idJIQKxElFleLSihA2NP75v6gJyXkUK-o98JL4Y6fWjMdq3y-XXnPtEpOovQRjbEh77vonNQOGi6LTLByWwSwebZOnggK9a07hHXGZ7EX8bQg8dUrCL4_0mRMDJIarapi0nJUnsK; __Secure-3PSIDCC=AIKkIs1xa74nX7ui4gCZKf7BRaP7d9sFnKhZAaK8qSbC2-UNETz3bhUEWSj6Cl2xkiZvUTBAgg</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,&quot;en-GB&quot;,null,&quot;boq_bloggeruiserver_20221124.00_p0&quot;]],241,[[&quot;1669504303606&quot;,null,[],null,null,null,null,&quot;[1669504303606,[[\&quot;4950535922500196698\&quot;,null,[[4096,1]]],[\&quot;1757184925777806825\&quot;,null,[[7,1]]],[\&quot;3079121564595244695\&quot;,null,[[5,1]]]],null,null,\&quot;[2,\\\&quot;h8FYbf_MS\\\&quot;]\&quot;]&quot;,null,null,null,1397741620,null,null,0,[null,[],null,&quot;[[],[],[1757124,1763433,1772879,45814370,47977019,48410021,48504704],[]]&quot;],null,null,null,[],2,null,null,null,null,null,[]]],&quot;1669504303607&quot;,[]]</queryString>
+  <java.net.URL>https://play.google.com/log?format=json&amp;hasfast=true</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="69" ts="1669504311647" s="true" lb="-2" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1861" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:50 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=1333F22E5D746B6928E4E0465C536AA9; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:50 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-x8VyxH/w7AWXBgVQQm5vXKoXT1YSFPq0QQylsCPFMxo=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 3865C17FAEAF444799023E3C96494859 Ref B: LON04EDGE0619 Ref C: 2022-11-26T23:11:50Z
+Date: Sat, 26 Nov 2022 23:11:50 GMT
+Connection: close
+Content-Length: 556
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;o&quot;,[&quot;outlook&quot;,&quot;office 365&quot;,&quot;outlook sign in&quot;,&quot;onedrive&quot;,&quot;omegle&quot;,&quot;ocado&quot;,&quot;onefile&quot;,&quot;old navy&quot;,&quot;o2&quot;,&quot;octopus energy&quot;,&quot;olio&quot;,&quot;one drive login&quot;,&quot;on the beach&quot;,&quot;open university&quot;,&quot;onenote&quot;,&quot;https://outlook.live.com&quot;,&quot;http://www.office.com&quot;,&quot;http://www.outlook.com&quot;,&quot;https://outlook.office365.com&quot;,&quot;http://ojp.nationalrail.co.uk&quot;,&quot;https://www.odeon.co.uk&quot;,&quot;http://www.o2.co.uk&quot;,&quot;https://onedrive.live.com&quot;,&quot;https://online.bankofscotland.co.uk&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;Outlook.com - Microsoft free personal email&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{},{},{},{&quot;t&quot;:&quot;OneDrive&quot;,&quot;a&quot;:&quot;Software&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_faac3c5e1d81447725ca526966a4e929\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1000,700,650,601,600,559,558,557,556,555,554,553,552,551,550,200,158,157,156,155,154,153,152,151],&quot;google:suggesttype&quot;:[&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:854}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=o&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=6da16ae53617426cb1840a8314aa8fb8&amp;oit=1&amp;cp=1&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="61" ct="40" ts="1669504311827" s="true" lb="-3" rc="200" rm="OK" tn="" dt="bin" de="" by="2727" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=2592000
+Content-Length: 1970
+Content-Type: image/jpeg
+X-Cache: TCP_HIT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Timing-Allow-Origin: *
+Report-To: {&quot;group&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingth&quot;}]}
+NEL: {&quot;report_to&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;success_fraction&quot;:0.001,&quot;failure_fraction&quot;:1.0}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 279D6256BB8D4AF5A385099AE4EB0BA1 Ref B: LTSEDGE1113 Ref C: 2022-11-26T23:11:50Z
+Date: Sat, 26 Nov 2022 23:11:50 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: (bin)</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/th?id=AMMS_faac3c5e1d81447725ca526966a4e929&amp;w=80&amp;h=80&amp;qlt=90&amp;c=6&amp;rs=1&amp;cdv=1&amp;pid=RS</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="43" ts="1669504312062" s="true" lb="-4" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1833" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:51 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=32779F4E68FB691E091A8D26691B689A; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:51 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-G2OdACHVNoYdQSnrgfVltkFCe8FN/GRmRwHa/vF5jag=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: A664A61FF0A2448CAB2C385F62FE7BF2 Ref B: LON04EDGE1011 Ref C: 2022-11-26T23:11:51Z
+Date: Sat, 26 Nov 2022 23:11:50 GMT
+Connection: close
+Content-Length: 528
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;oc&quot;,[&quot;ocado&quot;,&quot;octopus energy&quot;,&quot;ocado online shopping&quot;,&quot;octopus&quot;,&quot;ocado login&quot;,&quot;oculus&quot;,&quot;octordle&quot;,&quot;ocr&quot;,&quot;octopus energy login&quot;,&quot;ocean of games&quot;,&quot;oculus app&quot;,&quot;oculus quest 2&quot;,&quot;ocado uk&quot;,&quot;ocd&quot;,&quot;ocr interchange&quot;,&quot;http://www.ocado.com&quot;,&quot;https://www.ocr.org.uk&quot;,&quot;https://octopus.energy&quot;,&quot;http://www.oculus.com&quot;,&quot;https://octopusinvestments.com&quot;,&quot;http://www.oceanfm.ie&quot;,&quot;http://www.oceanfinance.co.uk&quot;,&quot;http://www.octagon-theatre.co.uk&quot;,&quot;https://oceanof-games.com&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{&quot;t&quot;:&quot;Ocado&quot;,&quot;a&quot;:&quot;British Business&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_51cab205af38d36a52ca6efc732effec\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1000,750,700,611,610,609,608,607,606,605,604,603,602,601,600,159,158,157,156,155,154,153,152,151],&quot;google:suggesttype&quot;:[&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:1019}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=oc&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=15820914bf624aca9f52b8fc0d9ccea4&amp;oit=1&amp;cp=2&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="62" ct="43" ts="1669504312195" s="true" lb="-5" rc="200" rm="OK" tn="" dt="bin" de="" by="3928" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=2592000
+Content-Length: 3169
+Content-Type: image/jpeg
+X-Cache: TCP_HIT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Timing-Allow-Origin: *
+Report-To: {&quot;group&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingth&quot;}]}
+NEL: {&quot;report_to&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;success_fraction&quot;:0.001,&quot;failure_fraction&quot;:1.0}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 69438345C2CC4BBEA55420BB977BD7A7 Ref B: LON04EDGE1207 Ref C: 2022-11-26T23:11:51Z
+Date: Sat, 26 Nov 2022 23:11:50 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: (bin)</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/th?id=AMMS_51cab205af38d36a52ca6efc732effec&amp;w=80&amp;h=80&amp;qlt=90&amp;c=6&amp;rs=1&amp;cdv=1&amp;pid=RS</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="42" ts="1669504312884" s="true" lb="-6" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1825" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:51 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=03DADDBDD3E06C8D2066CFD5D22B6DC4; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:51 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-kXkJIIWXdIYO0eESf9LhpSsGLboov5rcucSBRkYuNlc=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 6B648307C40549229939167F1008D8E0 Ref B: LTSEDGE1820 Ref C: 2022-11-26T23:11:51Z
+Date: Sat, 26 Nov 2022 23:11:51 GMT
+Connection: close
+Content-Length: 522
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;oct&quot;,[&quot;octopus energy&quot;,&quot;octopus&quot;,&quot;octordle&quot;,&quot;octopus login&quot;,&quot;octopus energy login&quot;,&quot;october half term 2022&quot;,&quot;octonauts&quot;,&quot;octopus ev&quot;,&quot;october&quot;,&quot;octordle game&quot;,&quot;octopus investments&quot;,&quot;octopart&quot;,&quot;octopus energy tariffs&quot;,&quot;octagon&quot;,&quot;october 2022 calendar&quot;,&quot;https://octopus.energy&quot;,&quot;https://octopusinvestments.com&quot;,&quot;http://www.octagon-theatre.co.uk&quot;,&quot;https://octagonbolton.co.uk&quot;,&quot;https://www.octopus-hr.co.uk&quot;,&quot;https://octopart.com&quot;,&quot;http://www.octer.co.uk&quot;,&quot;https://octopus.energy/contact-us&quot;,&quot;http://www.octagon-theatre.co.uk/whats-on&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{&quot;t&quot;:&quot;Octopus Energy&quot;,&quot;a&quot;:&quot;Organization&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_51147d309ab1610b15782afe686027ac\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1100,700,662,661,660,659,658,657,656,655,654,653,652,651,650,109,108,107,106,105,104,103,102,101],&quot;google:suggesttype&quot;:[&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:1013}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=oct&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=fc9c6311641c41d2b2f5cb01a195e86b&amp;oit=1&amp;cp=3&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="67" ct="49" ts="1669504313009" s="true" lb="-7" rc="200" rm="OK" tn="" dt="bin" de="" by="3517" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=2592000
+Content-Length: 2760
+Content-Type: image/jpeg
+X-Cache: TCP_HIT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Timing-Allow-Origin: *
+Report-To: {&quot;group&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingth&quot;}]}
+NEL: {&quot;report_to&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;success_fraction&quot;:0.001,&quot;failure_fraction&quot;:1.0}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 71D05EFD9D1A44409FA3C903FE719071 Ref B: LTSEDGE0906 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:51 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: (bin)</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/th?id=AMMS_51147d309ab1610b15782afe686027ac&amp;w=80&amp;h=80&amp;qlt=90&amp;c=6&amp;rs=1&amp;cdv=1&amp;pid=RS</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="47" ts="1669504313298" s="true" lb="-8" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1817" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=0BB62C9A6DC0681B0CA23EF26CF8691D; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-BhRRdnYO/3X/6paZ2SPOHciQNTpFVwaoEhP143dAf6E=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: A8344C30922247DEACF929FE76A082B2 Ref B: LTSEDGE1612 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:51 GMT
+Connection: close
+Content-Length: 514
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;octo&quot;,[&quot;octopus energy&quot;,&quot;octopus&quot;,&quot;octordle&quot;,&quot;octopus login&quot;,&quot;octopus energy login&quot;,&quot;october half term 2022&quot;,&quot;octonauts&quot;,&quot;octopus ev&quot;,&quot;october&quot;,&quot;octordle game&quot;,&quot;octopus investments&quot;,&quot;octopart&quot;,&quot;octopus energy tariffs&quot;,&quot;october 2022 calendar&quot;,&quot;https://octopus.energy&quot;,&quot;https://octopusinvestments.com&quot;,&quot;https://www.octopus-hr.co.uk&quot;,&quot;https://octopart.com&quot;,&quot;https://octopus.energy/contact-us&quot;,&quot;https://octopuschoice.com&quot;,&quot;https://octopus.com&quot;,&quot;https://octopus.energy/tariffs&quot;,&quot;https://octopusproperty.com&quot;,&quot;https://octopuscash.com&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{&quot;t&quot;:&quot;Octopus Energy&quot;,&quot;a&quot;:&quot;Organization&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_51147d309ab1610b15782afe686027ac\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1100,700,662,661,660,659,658,657,656,655,654,653,652,651,109,108,107,106,105,104,103,102,101,100],&quot;google:suggesttype&quot;:[&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:1085}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=octo&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=9a1d4552899d42acba8367498883626c&amp;oit=1&amp;cp=4&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="48" ts="1669504313575" s="true" lb="-9" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1818" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=1CB209377B0D6C1014581B5F7AED6D70; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-EGckHwf2cXoRgoP1j8cmKLUVSKkj8xwHWkRwHT6zDow=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 84E44C65330440A28205D0AB31B4EA12 Ref B: LON04EDGE1111 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:51 GMT
+Connection: close
+Content-Length: 513
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;octop&quot;,[&quot;octopus energy&quot;,&quot;octopus&quot;,&quot;octopus login&quot;,&quot;octopus energy login&quot;,&quot;octopus ev&quot;,&quot;octopus investments&quot;,&quot;octopart&quot;,&quot;octopus electric vehicles&quot;,&quot;octopus energy tariffs&quot;,&quot;octoprint&quot;,&quot;octopus energy uk&quot;,&quot;octopus energy electric blankets&quot;,&quot;octopus energy my account&quot;,&quot;octopus energy contact number&quot;,&quot;octopus energy contact&quot;,&quot;https://octopus.energy&quot;,&quot;https://octopusinvestments.com&quot;,&quot;https://www.octopus-hr.co.uk&quot;,&quot;https://octopart.com&quot;,&quot;https://octopus.energy/contact-us&quot;,&quot;https://octopuschoice.com&quot;,&quot;https://octopus.com&quot;,&quot;https://octopus.energy/tariffs&quot;,&quot;https://octopusproperty.com&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{&quot;t&quot;:&quot;Octopus Energy&quot;,&quot;a&quot;:&quot;Organization&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_51147d309ab1610b15782afe686027ac\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1150,800,701,700,660,659,658,657,656,655,654,653,652,651,650,209,208,207,206,205,204,203,202,201],&quot;google:suggesttype&quot;:[&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:1171}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=octop&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=c8b8670bbd2442cf91e710027b5be742&amp;oit=1&amp;cp=5&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="113" it="0" lt="113" ct="51" ts="1669504313721" s="true" lb="-10" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1698" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=3908C5F14CE563D31DC4D7994D1E6216; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-sh7KE/s/sJ82YoO9oBN9ncFdyz/nWxuc0T7oh6F+l5I=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: C5744DE7D6D34195B92124E9151FFE24 Ref B: LTSEDGE0918 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:52 GMT
+Connection: close
+Content-Length: 395
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;octope&quot;,[&quot;octoperf&quot;,&quot;october&quot;,&quot;october&quot;,&quot;octoped&quot;,&quot;octopean&quot;,&quot;octopede&quot;,&quot;octopeek&quot;,&quot;octopus&quot;,&quot;octopetala&quot;,&quot;octopodes&quot;,&quot;octopedal&quot;,&quot;octopedia&quot;,&quot;octoparse&quot;,&quot;octopart&quot;,&quot;octopeak&quot;,&quot;octoperf login&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{},{&quot;t&quot;:&quot;October&quot;,&quot;a&quot;:&quot;&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_35b1f12bd508c9e5c0e5384cb1b2ae6d\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{&quot;t&quot;:&quot;October&quot;,&quot;a&quot;:&quot;2018 Film&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_1a47c04bcd79067724b1e7fa6390a686\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1000,650,650,600,561,560,559,558,557,556,555,554,553,552,551,550],&quot;google:suggesttype&quot;:[&quot;QUERY&quot;,&quot;ENTITY&quot;,&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;],&quot;google:verbatimrelevance&quot;:878}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=octope&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=facfaad152be497893a98bf45476c62c&amp;oit=1&amp;cp=6&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="43" ts="1669504313824" s="true" lb="-11" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1727" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=30E17C8CB72968E225276EE4B6C96998; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:52 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-ZNa8O38+JZVay3RWPttdIPWiR5sxvWuEaAItwt2HvY0=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 30C8C86405DC49FA933BCC935E25DEFE Ref B: LON04EDGE1217 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:52 GMT
+Connection: close
+Content-Length: 422
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;octoper&quot;,[&quot;octoperf&quot;,&quot;october&quot;,&quot;october&quot;,&quot;octopus&quot;,&quot;octoparse&quot;,&quot;octopart&quot;,&quot;octoperf login&quot;,&quot;octoperf petstore&quot;,&quot;octoperf t440p&quot;,&quot;octoperf sso&quot;,&quot;octoperation&quot;,&quot;octoperf jmeter&quot;,&quot;octoperf op8015&quot;,&quot;octoperf github actions&quot;,&quot;octoperson&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{},{&quot;t&quot;:&quot;October&quot;,&quot;a&quot;:&quot;&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_35b1f12bd508c9e5c0e5384cb1b2ae6d\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{&quot;t&quot;:&quot;October&quot;,&quot;a&quot;:&quot;2018 Film&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_1a47c04bcd79067724b1e7fa6390a686\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[1000,700,700,600,561,560,559,558,557,556,555,554,553,551,550],&quot;google:suggesttype&quot;:[&quot;QUERY&quot;,&quot;ENTITY&quot;,&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;],&quot;google:verbatimrelevance&quot;:883}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=octoper&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=898dcb3a31364437b2243f3e72dd305a&amp;oit=1&amp;cp=7&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="71" ct="54" ts="1669504313941" s="true" lb="-12" rc="200" rm="OK" tn="" dt="bin" de="" by="3474" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=2592000
+Content-Length: 2717
+Content-Type: image/jpeg
+X-Cache: TCP_HIT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Timing-Allow-Origin: *
+Report-To: {&quot;group&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingth&quot;}]}
+NEL: {&quot;report_to&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;success_fraction&quot;:0.001,&quot;failure_fraction&quot;:1.0}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 5467F36D66C14BA996A66F9512DCF312 Ref B: LTSEDGE1606 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:52 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: (bin)</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/th?id=AMMS_35b1f12bd508c9e5c0e5384cb1b2ae6d&amp;w=80&amp;h=80&amp;qlt=90&amp;c=6&amp;rs=1&amp;cdv=1&amp;pid=RS</java.net.URL>
+</httpSample>
+<httpSample t="125" it="0" lt="124" ct="63" ts="1669504313945" s="true" lb="-13" rc="200" rm="OK" tn="" dt="bin" de="" by="4726" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=2592000
+Content-Length: 3968
+Content-Type: image/jpeg
+X-Cache: TCP_MISS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Timing-Allow-Origin: *
+Report-To: {&quot;group&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingth&quot;}]}
+NEL: {&quot;report_to&quot;:&quot;network-errors&quot;,&quot;max_age&quot;:604800,&quot;success_fraction&quot;:0.001,&quot;failure_fraction&quot;:1.0}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 27C78175374643BBA0317F339662715D Ref B: LTSEDGE1010 Ref C: 2022-11-26T23:11:52Z
+Date: Sat, 26 Nov 2022 23:11:52 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: (bin)</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/th?id=AMMS_1a47c04bcd79067724b1e7fa6390a686&amp;w=80&amp;h=80&amp;qlt=90&amp;c=6&amp;rs=1&amp;cdv=1&amp;pid=RS</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="50" ts="1669504315056" s="true" lb="-14" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1862" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:54 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=3B4038F76F476DF50DED2A9F6E246C71; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:54 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-lfstvmqsgPKgu+xfy+1w7EDqEpcSuyvASrg4NfhbFVA=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: BF00FD42EA264A3385A8B14ABD716DAA Ref B: LTSEDGE1015 Ref C: 2022-11-26T23:11:54Z
+Date: Sat, 26 Nov 2022 23:11:53 GMT
+Connection: close
+Content-Length: 559
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;p&quot;,[&quot;paypal&quot;,&quot;pinterest&quot;,&quot;premier inn&quot;,&quot;postcode finder&quot;,&quot;prime video&quot;,&quot;purple mash&quot;,&quot;poki&quot;,&quot;pandora black friday&quot;,&quot;premier league&quot;,&quot;parentpay&quot;,&quot;poland vs saudi arabia&quot;,&quot;perfume shop uk&quot;,&quot;play store&quot;,&quot;paddy power&quot;,&quot;powerpoint&quot;,&quot;https://personal.natwest.com&quot;,&quot;http://www.paypal.com&quot;,&quot;https://personal.rbs.co.uk&quot;,&quot;https://www.pof.com&quot;,&quot;http://www.pinterest.com&quot;,&quot;https://portal.nhs.net&quot;,&quot;http://www.postoffice.co.uk&quot;,&quot;https://planetradio.co.uk&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{&quot;t&quot;:&quot;PayPal&quot;,&quot;a&quot;:&quot;Financial Technology Company&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_b059388483fc6bc7e1b6c50efc374747\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[650,600,553,552,551,550,458,457,456,455,454,453,452,451,450,159,158,157,156,155,154,153,152],&quot;google:suggesttype&quot;:[&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:864}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=p&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=dbb0c96af06e411abfa3f56d5eaae609&amp;oit=1&amp;cp=1&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="70" ts="1669504315201" s="true" lb="-15" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1308" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 801
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:11:53 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiWHpyQnFnNHREMHY0YnlpVkFKUFRwZz09IiwgImhhc2giOiI0a0hFR3ZoRzcvND0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1567
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20v&amp;hostIp=49.12.128.248&amp;corrId=01f18c07-2a40-4bd3-8f3b-1657cb57e2d8&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;01f18c07-2a40-4bd3-8f3b-1657cb57e2d8&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="43" ts="1669504315262" s="true" lb="-16" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1855" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: public, max-age=86400
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+P3P: CP=&quot;NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND&quot;
+Set-Cookie: MUIDB=0450EC35DED76DF43B5FFD07DAD763DA; expires=Thu, 21-Dec-2023 23:11:54 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=2AAD2AA9A837665D3E7338C1A9546740; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; domain=.bing.com; expires=Thu, 21-Dec-2023 23:11:54 GMT; path=/; secure; SameSite=None
+Content-Security-Policy-Report-Only: script-src https: &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;nonce-Pk2ktcUzGcIJ6fA0OUrIsjYqGksf+FP4r2QQmMWriUw=&apos;; base-uri &apos;self&apos;;report-to csp-endpoint
+Report-To: {&quot;group&quot;:&quot;csp-endpoint&quot;,&quot;max_age&quot;:86400,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://aefd.nelreports.net/api/report?cat=bingcsp&quot;}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: D9B3B86A936342A6BBBB376A07AA72EA Ref B: LTSEDGE1114 Ref C: 2022-11-26T23:11:54Z
+Date: Sat, 26 Nov 2022 23:11:54 GMT
+Connection: close
+Content-Length: 552
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: www.bing.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;pe&quot;,[&quot;perfume shop uk&quot;,&quot;pets at home&quot;,&quot;peppa pig&quot;,&quot;pets4homes&quot;,&quot;periodic table&quot;,&quot;penny mordaunt&quot;,&quot;peacocks&quot;,&quot;people\u0027s pension&quot;,&quot;pexels&quot;,&quot;people hr&quot;,&quot;pebblepad&quot;,&quot;perks at work&quot;,&quot;peugeot&quot;,&quot;peppa pig youtube&quot;,&quot;peter purves&quot;,&quot;https://personal.natwest.com&quot;,&quot;https://personal.rbs.co.uk&quot;,&quot;https://personal.natwest.com/personal.html&quot;,&quot;http://www.pets4homes.co.uk&quot;,&quot;http://www.pearsonactivelearn.com&quot;,&quot;https://personal.rbs.co.uk/personal.html&quot;,&quot;https://www.petsathome.com&quot;,&quot;https://personal.natwest.com/personal/ways-to-bank.html&quot;],[&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;],[],{&quot;google:clientdata&quot;:{&quot;bcp&quot;:false,&quot;phi&quot;:0,&quot;tlw&quot;:false},&quot;google:suggestdetail&quot;:[{},{&quot;t&quot;:&quot;Pets at Home&quot;,&quot;a&quot;:&quot;Retailer&quot;,&quot;i&quot;:&quot;https://www.bing.com/th?id=AMMS_cee76054c70e670aaa51a7363aafc8da\u0026w=80\u0026h=80\u0026qlt=90\u0026c=6\u0026rs=1\u0026cdv=1\u0026pid=RS&quot;},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],&quot;google:suggestrelevance&quot;:[551,550,512,511,510,509,508,507,506,505,504,503,502,501,500,159,158,157,156,155,154,153,152],&quot;google:suggesttype&quot;:[&quot;QUERY&quot;,&quot;ENTITY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;QUERY&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;,&quot;NAVIGATION&quot;],&quot;google:verbatimrelevance&quot;:934}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MUID=0450EC35DED76DF43B5FFD07DAD763DA; SRCHD=AF=ANNTA1; SRCHUID=V=2&amp;GUID=7AA426D768F24E0ABD68E95951FB4DF5&amp;dmnchg=1; MicrosoftApplicationsTelemetryDeviceId=f86ada03-4d9a-4845-a497-b8b71b476cbb; MSFPC=GUID=2277829c5a414942b9d14c98d6d8c713&amp;HASH=2277&amp;LV=202201&amp;V=4&amp;LU=1642786586447; ABDEF=V=13&amp;ABDV=11&amp;MRNB=1647130807007&amp;MRB=0; BCP=AD=0&amp;AL=0&amp;SM=0&amp;CS=M; _tarLang=default=ta; _TTSS_IN=hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=; _TTSS_OUT=hist=WyJ0YSJd; imgv=flts=20220520; USRLOC=HS=1&amp;CLOC=LAT=51.498018342901474|LON=-0.5727108221786709|A=733.4464586120832|TS=221126223102|SRC=W; MMCASM=ID=F0CA4B5C06324C889857214A40717FCE; SRCHUSR=DOB=20220120&amp;T=1664228427000&amp;TPC=1659786546000; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AhApwxxupJyAcVE0g8RbXieQYTLaDmsuzYu4JI0SzUK_kQXW2VFk8mOCo96ldIgWo5BU6BL-b_AMGHK185mqVye_1ljaWfzUjgRxhYs4nixX-BDgaIklFcVVhxvTMW2kz7KPHMi1xKZPEqS6T3dsfGdan77hjGpc6f3sx0Xx_jRhOQ; OID=AhBsKGhicpno2ysTzpFOwBRkzMDeJNWu_rF3APpQHA9YvJFUvteI0xII9pdnrVUrkxdsGvUWl26N9r3vFFwtylUQ; OIDI=AhAMjgXRMPNI4LrpqivLpYgTc_Oij5vIu8vei7TIbU9oiw; ANIMIA=FREV2=1; _HPVN=CS=eyJQbiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NywiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyMi0xMS0yNFQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIkRmdCI6bnVsbCwiTXZzIjowLCJGbHQiOjAsIkltcCI6MTZ9; ANON=A=BBF446B1861108728F2183ABFFFFFFFF&amp;E=1b54&amp;W=7; SUID=A; SRCHHPGUSR=SRCHLANG=en&amp;PV=14.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1873&amp;CH=961&amp;SCW=1856&amp;SCH=3858&amp;DPR=1.0&amp;UTC=0&amp;DM=0&amp;EXLTT=1&amp;HV=1669480664; _RwBf=ilt=42&amp;ihpd=0&amp;ispd=5&amp;rc=1334&amp;rb=1334&amp;gb=0&amp;rg=0&amp;pc=1328&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;v=1&amp;l=2022-11-26T08:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;o=0&amp;p=BINGTRIAL5TO250P201808&amp;c=MY00IA&amp;t=5379&amp;s=2022-01-22T11:58:28.2587971+00:00&amp;ts=2022-11-26T16:37:41.9410792+00:00&amp;rwred=0&amp;mta=0&amp;e=if6mQk0cgc9xUOVKBh812lt0VnJDFK5RWhm7cM3BJlQ-eUda_78GmxqJCBb8Br3Nvs6_uhIG5WCSBYVi6y5K9fGzQSrEo7wsY9wH9Q3YPqU&amp;A=BBF446B1861108728F2183ABFFFFFFFF&amp;clo=0; WLS=C=b1c35885fde603cc&amp;N=VASANTH; _SS=SID=23DB1E8202F5610630090CEA033E602E; _U=1E9p812Ztn5MgDXE73Xm2lmOTGpIgEnqYQS2tkPJyVhklBIhSysAaVNIqIlVdOMg-rC8dY0mBneeuMnFO5_bdlqyDvxh3wzLZlCfK0tfkhMMgWfarTsukKyfjaPQYwrZGxb-ERniKpr9LiP-qoz6vOSI8HYsnz7lqEHCl9NWwWVQt08t51tv_NU848ypBBLmqo7YDwDweXHPak2iJWAO1fw</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.bing.com/qbox?query=pe&amp;language=en-US&amp;pt=EdgBox&amp;cvid=328bd6c82f4c4d918457566e22b823ee&amp;ig=1c9762593499499991871dc5a671285e&amp;oit=1&amp;cp=2&amp;pgcl=4</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="378" ct="73" ts="1669504318753" s="true" lb="-17" rc="200" rm="OK" tn="" dt="" de="" by="294" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Length: 0
+Access-Control-Allow-Headers: content-type
+Date: Sat, 26 Nov 2022 23:11:58 GMT
+Connection: close
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Methods: GET, OPTIONS, POST
+Access-Control-Allow-Origin: *
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Origin: https://ntp.msn.com
+Host: deff.nelreports.net
+Access-Control-Request-Headers: content-type
+Access-Control-Request-Method: POST
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">OPTIONS</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://deff.nelreports.net/api/report?cat=msn</java.net.URL>
+</httpSample>
+<httpSample t="211" it="0" lt="210" ct="40" ts="1669504319148" s="true" lb="01-18" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="477" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Date: Sat, 26 Nov 2022 23:11:58 GMT
+Connection: close
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Methods: GET, OPTIONS, POST
+Access-Control-Allow-Origin: *
+Content-Length: 137
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Host: deff.nelreports.net
+Content-Type: application/reports+json
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Content-Length: 491
+</requestHeader>
+  <responseData class="java.lang.String">Processed the request</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">[{&quot;age&quot;:33648,&quot;body&quot;:{&quot;elapsed_time&quot;:14,&quot;method&quot;:&quot;GET&quot;,&quot;phase&quot;:&quot;application&quot;,&quot;protocol&quot;:&quot;h2&quot;,&quot;referrer&quot;:&quot;https://ntp.msn.com/edge/ntp?locale=en-US&amp;title=New%20tab&amp;dsp=1&amp;sp=Bing&amp;prerender=1&quot;,&quot;sampling_fraction&quot;:1.0,&quot;server_ip&quot;:&quot;204.79.197.203&quot;,&quot;status_code&quot;:400,&quot;type&quot;:&quot;http.error&quot;},&quot;type&quot;:&quot;network-error&quot;,&quot;url&quot;:&quot;https://ntp.msn.com/favicon.ico&quot;,&quot;user_agent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;}]</queryString>
+  <java.net.URL>https://deff.nelreports.net/api/report?cat=msn</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="68" ct="49" ts="1669504323415" s="true" lb="02-19" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1415" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 908
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:12:01 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiNmx2eWlOdzZ1VllGNzdSdmlRVnVXUT09IiwgImhhc2giOiI5ZGQzOXFXM3B2WT0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1662
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com/actions/catalog.action&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbg%3D%3D&amp;refUrl=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20v&amp;hostIp=49.12.128.248&amp;corrId=5c8eaafb-b294-4f68-8558-a5c3689ccb02&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;referrer&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;5c8eaafb-b294-4f68-8558-a5c3689ccb02&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="58" ts="1669504327155" s="true" lb="03-20" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1522" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 1014
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:12:05 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiK2Y0aFduaUNtQ0xsZ1pWYzZ6bXhEZz09IiwgImhhc2giOiJldFNQSU5xMHNyYz0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1714
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com/actions/catalog.action?viewcategory=&amp;categoryid=fish&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbj92aWV3Q2F0ZWdvcnk9JmNhdGVnb3J5SWQ9RklTSA%3D%3D&amp;refUrl=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbg%3D%3D&amp;hostIp=49.12.128.248&amp;corrId=1c996b34-b175-4a51-b585-51cd64730821&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;referrer&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;1c996b34-b175-4a51-b585-51cd64730821&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="84" ct="60" ts="1669504330552" s="true" lb="04-21" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1520" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 1012
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:12:09 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiMVE5MzVsdHNFaTRVMHUxM3Bqc2xVUT09IiwgImhhc2giOiJOSDlyN0gvRlR2Zz0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1726
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com/actions/account.action?signonform=&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9BY2NvdW50LmFjdGlvbj9zaWdub25Gb3JtPQ%3D%3D&amp;refUrl=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbj92aWV3Q2F0ZWdvcnk9JmNhdGVnb3J5SWQ9RklTSA%3D%3D&amp;hostIp=49.12.128.248&amp;corrId=a0252b12-40d4-415e-a536-d9927e9680d5&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Account.action?signonForm=&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;referrer&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;a0252b12-40d4-415e-a536-d9927e9680d5&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+<httpSample t="128" it="0" lt="128" ct="104" ts="1669504330731" s="true" lb="04-22" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="356" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=2789944, private
+Content-Length: 52
+Content-Type: text/plain; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: F8993656DB4D45D68F1553119260E7DE Ref B: LTSEDGE1710 Ref C: 2022-11-26T23:12:09Z
+Date: Sat, 26 Nov 2022 23:12:08 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9,ta;q=0.8
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-Edge-Version: 107.0.1418.56
+Sec-Mesh-Client-Edge-Channel: stable
+X-Client-Data: CL71ygE=
+Host: edge.microsoft.com
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Mesh-Client-OS-Version: 10.0.22000
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">CgsKCQ0Cj/toGgIIAAoWCgkN541ADhoCCAAKCQ3OQUx6GgIISw==</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTA3LjAuNTMwNC4xMTASEAnfh7zKjxssDxIFDQKP-2gSFwk8GLxUJUMd8BIFDeeNQA4SBQ3OQUx6?alt=proto</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="79" ct="58" ts="1669504337690" s="true" lb="04-23" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1467" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 960
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:12:16 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiOXV0WG5BMk9TT2w2WXM1RjllWWlUZz09IiwgImhhc2giOiJINDVrWE9yVlpLND0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1696
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com/actions/account.action&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9BY2NvdW50LmFjdGlvbg%3D%3D&amp;refUrl=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9BY2NvdW50LmFjdGlvbj9zaWdub25Gb3JtPQ%3D%3D&amp;hostIp=49.12.128.248&amp;corrId=c5e987e9-5c0e-47be-b998-0cf47580e302&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Account.action&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;referrer&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Account.action?signonForm=&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;c5e987e9-5c0e-47be-b998-0cf47580e302&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="68" ct="47" ts="1669504341993" s="true" lb="05-24" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1528" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 1020
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:12:20 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiLysxNERWS2dPbDZjMkN1MVBZaUpsZz09IiwgImhhc2giOiJaZTRwMmZtTHRkQT0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1718
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com/actions/catalog.action?viewcategory=&amp;categoryid=reptiles&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbj92aWV3Q2F0ZWdvcnk9JmNhdGVnb3J5SWQ9UkVQVElMRVM%3D&amp;refUrl=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbg%3D%3D&amp;hostIp=49.12.128.248&amp;corrId=6fff77a1-6caa-44bf-a443-588279da1a75&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;referrer&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;6fff77a1-6caa-44bf-a443-588279da1a75&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="80" ct="59" ts="1669504345428" s="true" lb="06-25" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="1515" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-A8OIRUS">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 1007
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled
+Date: Sat, 26 Nov 2022 23:12:23 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiR2NhQ01EdUJ3b0Zrbk11aml0RXR3QT09IiwgImhhc2giOiJEZlZ2dGdqcXBIVT0ifQ==
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Host: nav-edge.smartscreen.microsoft.com
+Content-Type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56
+Sec-Fetch-Dest: empty
+Content-Length: 1727
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;actions&quot;:[{&quot;$type&quot;:&quot;cache&quot;,&quot;key&quot;:{&quot;uri&quot;:&quot;petstore.octoperf.com/actions/account.action?signoff=&quot;,&quot;inheritance&quot;:&quot;none&quot;},&quot;maxAge&quot;:100800000000,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;}}],&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;result&quot;:{&quot;$type&quot;:&quot;evaluate&quot;,&quot;responseCategory&quot;:&quot;Allowed&quot;,&quot;serverContext&quot;:&quot;1;f94c025f-7523-6972-b613-ce2c246c55ce;UNKN:100;0.01&quot;,&quot;feedbackUrl&quot;:&quot;https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&amp;t=12553&amp;result=none&amp;type=top&amp;ur=UNKN%3A100&amp;osVer=10.0.22000.1219.co_release&amp;prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&amp;locale=en-US&amp;fv=1.2.2211.6&amp;dv=638004170464094982&amp;url=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9BY2NvdW50LmFjdGlvbj9zaWdub2ZmPQ%3D%3D&amp;refUrl=aHR0cHM6Ly9wZXRzdG9yZS5vY3RvcGVyZi5jb20vYWN0aW9ucy9DYXRhbG9nLmFjdGlvbj92aWV3Q2F0ZWdvcnk9JmNhdGVnb3J5SWQ9UkVQVElMRVM%3D&amp;hostIp=49.12.128.248&amp;corrId=a898b8e1-b02b-4cb5-baea-cc098a52f828&quot;}}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;userAgent&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56&quot;,&quot;identity&quot;:{&quot;user&quot;:{&quot;locale&quot;:&quot;en-US&quot;},&quot;device&quot;:{&quot;id&quot;:null,&quot;customId&quot;:null,&quot;onlineIdTicket&quot;:&quot;t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEBJF/r04O8XRYEPyovV8NdjgAFN5RtMgDQ1sEohGBpocuGUHHgMiWqdIoHEWbtGeF5dTNrSi8KTfER0pk8luEFqyMeQe3DWDNmWzzvJekYcussMfRgm0Dpt8bXn6Xz2HOHdVtBe1kOmX144zTfYsn6/2hMDdTL7ZsJmdX/A2BUfyvj0dZsCg2svOlVK1VCRckksW1+Etooy3zwxANTybHC8AeYROouyZlo5VQ69JKKp5uV1fbmu1SDDXDmjIqMMStwm1wOb6FG6Lks6QwAQ6rzPPMzEMJ1zMg9a7eI9w1+r5tKoSYFZs14b0PWjKWxcNa/GcHQE=&amp;p=&quot;,&quot;family&quot;:3,&quot;locale&quot;:&quot;en-US&quot;,&quot;osVersion&quot;:&quot;10.0.22000.1219.co_release&quot;,&quot;browser&quot;:{&quot;internet_explorer&quot;:&quot;9.11.22000.0&quot;},&quot;netJoinStatus&quot;:2,&quot;enterprise&quot;:{},&quot;cloudSku&quot;:false,&quot;architecture&quot;:9},&quot;caller&quot;:{&quot;locale&quot;:&quot;en-US&quot;,&quot;name&quot;:&quot;anaheim&quot;,&quot;version&quot;:&quot;107.0.1418.56 (Official build) &quot;},&quot;client&quot;:{&quot;version&quot;:281483711545350,&quot;data&quot;:{&quot;topTraffic&quot;:&quot;638004170464094982&quot;,&quot;customSynchronousLookupUris&quot;:&quot;0&quot;,&quot;synchronousLookupUris&quot;:&quot;638051008249720474&quot;,&quot;customSettings&quot;:&quot;F95BA787499AB4FA9EFFF472CE383A14&quot;,&quot;edgeSettings&quot;:&quot;2.0-867cfb13695e50a229f356fcd65e1904331ff790498823a8a51c47469544134a&quot;}}},&quot;config&quot;:{&quot;user&quot;:{&quot;uriReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}},&quot;device&quot;:{&quot;appControl&quot;:{&quot;level&quot;:&quot;anywhere&quot;},&quot;appReputation&quot;:{&quot;enforcedByPolicy&quot;:false,&quot;level&quot;:&quot;warn&quot;}}},&quot;destination&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Account.action?signoff=&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;referrer&quot;:{&quot;uri&quot;:&quot;https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot;,&quot;ip&quot;:&quot;49.12.128.248&quot;},&quot;type&quot;:&quot;top&quot;,&quot;forceServiceDetermination&quot;:false,&quot;correlationId&quot;:&quot;a898b8e1-b02b-4cb5-baea-cc098a52f828&quot;,&quot;synchronous&quot;:false}</queryString>
+  <java.net.URL>https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3</java.net.URL>
+</httpSample>
+
+</testResults>
