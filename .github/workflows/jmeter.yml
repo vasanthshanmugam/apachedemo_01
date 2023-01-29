@@ -1,0 +1,28 @@
+name: JMeter Test
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install Java
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y openjdk-8-jdk
+
+    - name: Install JMeter
+      run: |
+        wget https://downloads.apache.org/jmeter/binaries/apache-jmeter-5.3.tgz
+        tar -xzf apache-jmeter-5.3.tgz
+        rm apache-jmeter-5.3.tgz
+        
+        
+    - name: Run JMeter Test
+      run: |
+        apache-jmeter-5.3/bin/jmeter -n -t vasanthshanmugam/apachedemo_01/SummaryReport.jmx -l vasanthshanmugam/apachedemo_01/results.jtl
+
