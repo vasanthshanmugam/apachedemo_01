@@ -1,0 +1,27 @@
+name: Run JMeter Test
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  jmeter:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Install Java
+      uses: actions/setup-java@v2
+      with:
+        java-version: '11'
+    - name: Download JMeter
+      run: |
+        wget https://downloads.apache.org//jmeter/binaries/apache-jmeter-5.4.1.tgz
+        tar -xzf apache-jmeter-5.4.1.tgz
+    - name: Run JMeter Test
+      run: ./apache-jmeter-5.4.1/bin/jmeter -n -t https://github.com/vasanthshanmugam/apachedemo_01/blob/main/SummaryReport.jmx -l https://github.com/vasanthshanmugam/apachedemo_01/blob/main/results.jtl
+    - name: Upload Results
+      uses: actions/upload-artifact@v2
+      with:
+        name: jmeter-results
+        path: results.jtl
