@@ -25,6 +25,6 @@ jobs:
         
     - name: Run JMeter Test
       run: |
-        & C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5\bin\jmeter.bat -n -t "SummaryReport.jmx"
+        & "C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5\bin\jmeter.bat -n -t SummaryReport.jmx"
         
 
