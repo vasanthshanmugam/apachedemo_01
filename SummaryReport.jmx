@@ -306,7 +306,7 @@
             </value>
           </objProp>
           <stringProp name="filename"></stringProp>
-          <stringProp name="RespTimeGraph.interval">500</stringProp>
+          <stringProp name="RespTimeGraph.interval">600</stringProp>
           <intProp name="RespTimeGraph.linestrockwidth">8</intProp>
           <boolProp name="RespTimeGraph.seriesselection">true</boolProp>
           <stringProp name="RespTimeGraph.graphtitle">Response Time Graph - Littles Law</stringProp>
