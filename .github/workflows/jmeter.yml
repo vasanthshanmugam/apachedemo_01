@@ -16,7 +16,7 @@ jobs:
 
     - name: Install JMeter
       run: |
-       $version = "5.4.3"
+       $version = "5.5"
         $url = "https://downloads.apache.org/jmeter/binaries/apache-jmeter-$version.zip"
         Invoke-WebRequest -Uri $url -OutFile "jmeter.zip"
         Expand-Archive jmeter.zip -DestinationPath $Env:USERPROFILE
@@ -25,7 +25,7 @@ jobs:
         
     - name: Run JMeter Test
       run: |
-        & "c:\apache-jmeter-5.4.3\apache-jmeter-5.4.3\bin\jmeter.bat" -n -t vasanthshanmugam/apachedemo_01/SummaryReport.jmx -l vasanthshanmugam/apachedemo_01/results.jtl
+        & "C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5\bin\jmeter.bat" -n -t vasanthshanmugam/apachedemo_01/SummaryReport.jmx -l vasanthshanmugam/apachedemo_01/results.jtl
         
 
 
