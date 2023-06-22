@@ -1,31 +1,36 @@
-name: JMeter Test
+name: JMeter Load Test
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
-    runs-on: windows-latest
+  load_test:
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Install Java
-      run: |
-        choco install openjdk8
+      - name: Set up Java
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'
 
-    - name: Install JMeter
-      run: |
-       $version = "5.5"
-        $url = "https://downloads.apache.org/jmeter/binaries/apache-jmeter-$version.zip"
-        Invoke-WebRequest -Uri $url -OutFile "jmeter.zip"
-        Expand-Archive jmeter.zip -DestinationPath $Env:USERPROFILE
-        rm jmeter.zip
+      - name: Install JMeter
+        run: |
+          wget https://archive.apache.org/dist/jmeter/binaries/apache-jmeter-5.5.tgz
+          tar -xzf apache-jmeter-5.5.tgz
+          export JMETER_HOME=$PWD/apache-jmeter-5.5
+          export PATH=$JMETER_HOME/bin:$PATH
 
-        
-    - name: Run JMeter Test
-      run: |
-        & "C:\Vasanth\apache-jmeter-5.5\apache-jmeter-5.5\bin\jmeter.bat" -n -t SummaryReport.jmx -l results.jtl
-        
+      - name: Run JMeter test
+        run: |
+          jmeter -n -t SummaryReport.jmx -l test-results.jtl
 
-
+      - name: Upload test results
+        uses: actions/upload-artifact@v2
+        with:
+          name: JMeter Test Results
+          path: test-results.jtl
